@@ -1,0 +1,20 @@
+Test Accuracy score for Iteration - 2 : 0.7916666666666666
+Precision score - 0.7916666666666666
+F1 score - 0.7916666666666666
+Recall score - 0.7916666666666666
+Confussion matrix: 
+[[11  4  3  0]
+ [ 1 16  1  0]
+ [ 2  4 12  0]
+ [ 0  0  0 18]]
+--------------------------------------------- 
+Test Accuracy score for Iteration - 2 : 0.75
+Precision score - 0.75
+F1 score - 0.75
+Recall score - 0.75
+Confussion matrix: 
+[[12  6  0  0]
+ [ 3 15  0  0]
+ [ 1  8  9  0]
+ [ 0  0  0 18]]
+--------------------------------------------- 
